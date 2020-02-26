@@ -52,7 +52,7 @@
   "name": "apisauce",
   "repository": {
     "type": "git",
-    "url": "https://github.com/skellock/apisauce.git"
+    "url": "https://github.com/atistler/apisauce.git"
   },
   "scripts": {
     "build": "BABEL_ENV=production rollup -c",
